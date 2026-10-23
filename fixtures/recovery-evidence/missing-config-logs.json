@@ -1,0 +1,7 @@
+{
+  "source": "REPLAY",
+  "releaseId": "release-config-2",
+  "lines": [
+    { "timestamp": "2026-10-23T07:15:00Z", "level": "error", "releaseId": "release-config-2", "message": "Missing required configuration: APP_PUBLIC_ORIGIN" }
+  ]
+}

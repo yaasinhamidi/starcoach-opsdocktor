@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>OpsDocktor monochrome controlled recovery path</title>
+  <path d="M22 10h-6a6 6 0 0 0-6 6v32a6 6 0 0 0 6 6h6M42 10h6a6 6 0 0 1 6 6v32a6 6 0 0 1-6 6h-6" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24 22 32 32 40 42" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="22" r="3" fill="currentColor"/>
+  <circle cx="32" cy="32" r="3" fill="currentColor"/>
+  <circle cx="40" cy="42" r="3" fill="currentColor"/>
+</svg>

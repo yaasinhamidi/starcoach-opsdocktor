@@ -1,0 +1,8 @@
+{
+  "currentRelease": "release-22",
+  "total": 2,
+  "releases": [
+    { "_id": "release-22", "tag": "v22", "state": "READY", "createdAt": "2026-10-21T10:00:00Z", "gitInfo": { "author": { "email": "private@example.test" } } },
+    { "_id": "release-21", "tag": "v21", "state": "FAILED", "createdAt": "2026-10-21T09:00:00Z" }
+  ]
+}

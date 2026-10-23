@@ -1,0 +1,12 @@
+{
+  "source": "REPLAY",
+  "releaseId": "release-port-config-4",
+  "lines": [
+    {
+      "timestamp": "2026-10-23T09:05:00Z",
+      "level": "error",
+      "releaseId": "release-port-config-4",
+      "message": "Deployment contract mismatch: package.json config.port=3000; liara.json port=8080"
+    }
+  ]
+}

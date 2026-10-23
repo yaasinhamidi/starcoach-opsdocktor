@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "variant": "corrected-startup",
+  "startCommand": "node server.mjs",
+  "artifactVersion": "liara-first-test-corrected-v1",
+  "files": [
+    {
+      "path": "liara.json",
+      "sha256": "c808f374abbdeaaa0c6ddb08ad75aa68b2c19aeb33cf855d20129d121aae49c3"
+    },
+    {
+      "path": "package.json",
+      "sha256": "7513076ebe6fa4314594f8e01affb0c42806b8e1995b4c446c3e8a4f277b027c"
+    },
+    {
+      "path": "server.mjs",
+      "sha256": "f08e1560b44f3043acb0a18ffbbb4b2aac1c251b47074a200cf1fb88fb3c23c7"
+    }
+  ],
+  "artifactDigest": "950c94d06036538c10b2c31333658289a66938b31026ea913215a0fdc1bb525e"
+}

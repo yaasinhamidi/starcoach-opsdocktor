@@ -1,0 +1,11 @@
+{
+  "name": "liara-port-contract-demo",
+  "private": true,
+  "type": "module",
+  "config": {
+    "port": 3000
+  },
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}

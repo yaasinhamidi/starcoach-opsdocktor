@@ -1,0 +1,8 @@
+{
+  "source": "REPLAY",
+  "releaseId": "release-broken-7",
+  "lines": [
+    { "timestamp": "2026-10-21T09:20:00Z", "level": "error", "releaseId": "release-broken-7", "message": "Error: Cannot find module '/app/missing.mjs'", "file": "package.json", "line": 6 },
+    { "timestamp": "2026-10-21T09:20:00Z", "level": "error", "releaseId": "release-broken-7", "message": "code: MODULE_NOT_FOUND", "file": "package.json", "line": 6 }
+  ]
+}

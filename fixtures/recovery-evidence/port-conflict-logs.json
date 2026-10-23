@@ -1,0 +1,7 @@
+{
+  "source": "REPLAY",
+  "releaseId": "release-port-3",
+  "lines": [
+    { "timestamp": "2026-10-23T07:10:00Z", "level": "error", "releaseId": "release-port-3", "message": "Error: listen EADDRINUSE: address already in use 127.0.0.1:3000" }
+  ]
+}

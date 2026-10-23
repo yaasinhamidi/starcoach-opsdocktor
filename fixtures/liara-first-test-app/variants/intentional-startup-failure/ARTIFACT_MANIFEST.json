@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "variant": "intentional-startup-failure",
+  "startCommand": "node missing.mjs",
+  "artifactVersion": "liara-first-test-failure-v1",
+  "files": [
+    {
+      "path": "liara.json",
+      "sha256": "c808f374abbdeaaa0c6ddb08ad75aa68b2c19aeb33cf855d20129d121aae49c3"
+    },
+    {
+      "path": "package.json",
+      "sha256": "3dedb9ed4416da6f4d439454a42b0a88d0ee2bd29f3b1466599b030e46d259a1"
+    },
+    {
+      "path": "server.mjs",
+      "sha256": "bb2bc1d6972285a098bdd5ab8df886fb8713c6ea0839279267f160921af68356"
+    }
+  ],
+  "artifactDigest": "1547e37e610a75e67d2f959e69e704c4d905fada2fbac70ec4e398b24c12d4c8"
+}

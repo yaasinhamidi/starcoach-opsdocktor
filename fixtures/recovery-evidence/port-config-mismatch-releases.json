@@ -1,0 +1,8 @@
+{
+  "source": "REPLAY",
+  "project": "liara-port-contract-demo",
+  "releases": [
+    { "id": "release-stable-8", "state": "READY", "version": "stable-v8", "current": true },
+    { "id": "release-port-config-4", "state": "FAILED", "version": "port-config-v4", "current": false }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "source": "REPLAY",
+  "project": "liara-recovery-demo",
+  "releases": [
+    { "id": "release-stable-6", "state": "READY", "version": "stable-v6", "current": true },
+    { "id": "release-config-2", "state": "FAILED", "version": "config-fail-v2", "current": false }
+  ]
+}

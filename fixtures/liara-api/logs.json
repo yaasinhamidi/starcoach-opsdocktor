@@ -1,0 +1,6 @@
+{
+  "logs": [
+    { "timestamp": "2026-10-21T10:00:00Z", "message": "Application started on port 3000", "level": "info" },
+    { "timestamp": "2026-10-21T10:01:00Z", "message": "authorization: Bearer example-token-value", "level": "warning" }
+  ]
+}

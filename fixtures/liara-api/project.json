@@ -1,0 +1,13 @@
+{
+  "name": "sanitized-demo-app",
+  "id": "project-fixture-001",
+  "status": "RUNNING",
+  "project": {
+    "_id": "project-fixture-001",
+    "project_id": "sanitized-demo-app",
+    "type": "node",
+    "status": "RUNNING",
+    "isDeployed": true,
+    "envs": [{ "key": "API_KEY", "value": "fixture-never-return-this" }]
+  }
+}

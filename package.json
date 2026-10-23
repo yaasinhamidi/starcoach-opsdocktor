@@ -1,0 +1,22 @@
+{
+  "name": "starcoach-liara-agent",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "demo": "node src/demo-server.mjs",
+    "demo:process": "node src/demo-server.mjs --process-fake-agent",
+    "demo:port-conflict": "node src/demo-server.mjs --incident=port-conflict",
+    "demo:port-config-mismatch": "node src/demo-server.mjs --incident=port-config-mismatch",
+    "demo:missing-config": "node src/demo-server.mjs --incident=missing-config",
+    "liara:readonly-preflight": "node src/liara-readonly-preflight.mjs",
+    "llm:acceptance-preflight": "node scripts/boxapi-one-shot.mjs --preflight-only",
+    "demo:live-readonly": "node src/live-readonly-demo.mjs",
+    "package:submission": "node scripts/package-submission.mjs",
+    "package:verify": "node scripts/verify-source-package.mjs"
+  },
+  "dependencies": {
+    "@starcoach/core-llm": "file:vendor/starcoach-core-llm-0.5.0.tgz"
+  }
+}

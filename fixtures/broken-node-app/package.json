@@ -1,0 +1,10 @@
+{
+  "name": "fixture-missing-start",
+  "version": "1.0.0",
+  "config": {
+    "port": 3000
+  },
+  "scripts": {
+    "preinstall": "echo THIS_FIXTURE_MUST_NEVER_RUN"
+  }
+}

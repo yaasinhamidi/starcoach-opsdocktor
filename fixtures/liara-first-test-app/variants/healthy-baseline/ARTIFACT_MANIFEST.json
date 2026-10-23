@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "variant": "healthy-baseline",
+  "startCommand": "node server.mjs",
+  "artifactVersion": "liara-first-test-healthy-v1",
+  "files": [
+    {
+      "path": "liara.json",
+      "sha256": "c808f374abbdeaaa0c6ddb08ad75aa68b2c19aeb33cf855d20129d121aae49c3"
+    },
+    {
+      "path": "package.json",
+      "sha256": "140708f12dd34f603906dc69b73b054d9bcbc8ff0471697721dba7a179f9879e"
+    },
+    {
+      "path": "server.mjs",
+      "sha256": "b89f2ad367e4582042c5a0c9b5d2d76b0f468efae7b918f79161e9ed30d7b04f"
+    }
+  ],
+  "artifactDigest": "4b40453c421fdc24920c0bc17b754bbff9ced22a5a68f14fb184fdb8d8a192a3"
+}

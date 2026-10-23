@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.liara-readonly.json
+submission-package*/
+node_modules/
+.npm-cache/
+.venv/
+__pycache__/
+*.py[cod]
+.coverage
