@@ -1,0 +1,560 @@
+{
+  "schemaVersion": 1,
+  "files": [
+    {
+      "path": ".env.example",
+      "size": 61,
+      "sha256": "86c22ed0eb7cec93efe8f01718949dbdf5932717669f4cdfc871936edb48d592"
+    },
+    {
+      "path": ".gitignore",
+      "size": 145,
+      "sha256": "cb41087bdd0cd0ef15ad4e377c31039a863173aef8f05a8ab3e97201a83b6a21"
+    },
+    {
+      "path": ".liara-readonly.example.json",
+      "size": 253,
+      "sha256": "5491a5a2a7a23e49a1f0147af7ec577966c0d2fff52524a45c40045dd076a1c5"
+    },
+    {
+      "path": "README.md",
+      "size": 14123,
+      "sha256": "a2583ac60cdf84e52fde03e5809a2ef291b7d28ecb14b3527edabdfa630a7345"
+    },
+    {
+      "path": "assets/brand/opsdocktor-favicon.svg",
+      "size": 561,
+      "sha256": "92269299c7086bd15c2fade31cf1a23f36d2c9601aa7b9ae8acbde7ed080f6ed"
+    },
+    {
+      "path": "assets/brand/opsdocktor-lockup.svg",
+      "size": 703,
+      "sha256": "b84dc40e06ff550c3aa31ec73c999fb958ddc66c517f74aabf68a685e0787461"
+    },
+    {
+      "path": "assets/brand/opsdocktor-logo-dark.svg",
+      "size": 589,
+      "sha256": "e011ceeede46a32c5bc4d4f3371bfe02764f9cfb50690c45569b9822ca1dbb81"
+    },
+    {
+      "path": "assets/brand/opsdocktor-logo-light.svg",
+      "size": 590,
+      "sha256": "343a247b448f3020ae8bf16766bf23bf30523636c8bfebe9cb80faecb3f6d06e"
+    },
+    {
+      "path": "assets/brand/opsdocktor-logo-mono.svg",
+      "size": 614,
+      "sha256": "23af7f8da4c012f13d6139ce1a0219659f7301e6a700ba90778011fcf34d93e8"
+    },
+    {
+      "path": "assets/brand/opsdocktor-logo-primary.svg",
+      "size": 578,
+      "sha256": "3249dac53e31123f8e35145340e563b99547c4cfd03ca8d9b18fb8afd2b09c45"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "size": 4391,
+      "sha256": "17e355067c8284f47743a1ee3b1ef7ff684ff0601eda357f9353b10b3016ab31"
+    },
+    {
+      "path": "assets/fonts/README.md",
+      "size": 841,
+      "sha256": "c411c39de21c7f372861eb9993496cb3f15c986a301ce9bb98e0a2592d38a673"
+    },
+    {
+      "path": "assets/fonts/Vazirmatn-Variable.woff2",
+      "size": 111152,
+      "sha256": "4e3fa217d38fdafc1fea4414ceb58ca5e662cf0ab5fa735a8c8c20e8b42cad92"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "size": 14320,
+      "sha256": "c737039f46a97d33b66d514c84715eafbc5f8f9381863268fa550568f7f77c1a"
+    },
+    {
+      "path": "docs/AUDIT_2026-10-22.md",
+      "size": 5625,
+      "sha256": "dded7e50f3de98c7fb28cc4c140c1a93813df4705827a012c85aae9691619bcf"
+    },
+    {
+      "path": "docs/BOXAPI_403_TROUBLESHOOTING.md",
+      "size": 3822,
+      "sha256": "4d33e26fa4908ce414f3cc763e2a4f9b141664df688ad1d3cc2153e18045d1c8"
+    },
+    {
+      "path": "docs/CODING_AGENT_HANDOFF.md",
+      "size": 7510,
+      "sha256": "2dfe359e1992f494b23adc3bd2ec5d6da3ad7c78ca389203f505e3f141fcb894"
+    },
+    {
+      "path": "docs/CONTEST_FACTS.md",
+      "size": 2987,
+      "sha256": "a430a1fcf259e219d0c0f8232aa1488cac144c02224c812653969fb0d5712418"
+    },
+    {
+      "path": "docs/DEMO_RECORDING_PACKAGE.md",
+      "size": 10412,
+      "sha256": "a8984b756a620ad6f4fe2a0439311c8ef9fffec08761481e36bcad4b5533f80e"
+    },
+    {
+      "path": "docs/FIRST_LIARA_TEST_APP_RUNBOOK.md",
+      "size": 7552,
+      "sha256": "15678e11dc71bc60ea4791e3ff480c1d90b4189bd604e05e3adfc277927ab806"
+    },
+    {
+      "path": "docs/GITHUB_PUBLICATION_MANIFEST.md",
+      "size": 4312,
+      "sha256": "59385ee867288fb5e25e1657da9ec2d98e26da3776df1fbed08204c91d39ac5b"
+    },
+    {
+      "path": "docs/INSTALLATION.md",
+      "size": 2772,
+      "sha256": "959c480ce9000083d8bf7952a31e352164f5a63460cca07472c98cf10a82c585"
+    },
+    {
+      "path": "docs/LIARA_READ_ONLY_PREFLIGHT.md",
+      "size": 5558,
+      "sha256": "c82b9e043247c1aae83f31d19a28a19f0961c2047b6594d1072fc9fb4fac8870"
+    },
+    {
+      "path": "docs/LLM_DIAGNOSIS_PROVIDERS.md",
+      "size": 9303,
+      "sha256": "d3675885a58e25f679568e7302b40b5babef874897a0dfa8acef4407cc3d32dd"
+    },
+    {
+      "path": "docs/OPEN_QUESTIONS.md",
+      "size": 2459,
+      "sha256": "8b4dc3b2457a06a89fb6a7442e7c44f1e26ceed1e64e868ad70cd5c8d6493126"
+    },
+    {
+      "path": "docs/OPSDOCKTOR_VISUAL_IDENTITY.md",
+      "size": 4053,
+      "sha256": "c975004e532ce899e0ed13d37d2ba88e3abb72b5ad9fe09b5d04ca8fdbea280b"
+    },
+    {
+      "path": "docs/OPS_DOCKTOR_EVIDENCE_2026-10-23_MISSION2.md",
+      "size": 5838,
+      "sha256": "d2c925b2841ced2e74950cfb5df29419f42d97403bfab6f099fdf4d1ad4db6d9"
+    },
+    {
+      "path": "docs/OPS_DOCKTOR_EVIDENCE_2026-10-23_PROCESS_BRIDGE.md",
+      "size": 6405,
+      "sha256": "cde62619b59cde963de85cc23977713c63d24bc624c7955e1ce260feb74d657b"
+    },
+    {
+      "path": "docs/PROVIDER_TROUBLESHOOTING.md",
+      "size": 4765,
+      "sha256": "afb6a755d969063659db7ade9af62a6fbfd03f86848d693dfc11f0630efe0d6f"
+    },
+    {
+      "path": "docs/README.md",
+      "size": 4819,
+      "sha256": "38a6330172cbe20843c601d0bae87df3890a82d757ae162818059fe18b6fd30e"
+    },
+    {
+      "path": "docs/START_HERE.md",
+      "size": 6743,
+      "sha256": "01132f2fbc0bf63ec97abde3de24a867ddccdc0c918915376a3e688dcf1a3336"
+    },
+    {
+      "path": "docs/SUBMISSION_CHECKLIST.md",
+      "size": 9335,
+      "sha256": "5443ab42b460efdf270881c4ded13493fb8e613c83286950fe6b433bfff49e38"
+    },
+    {
+      "path": "docs/VALIDATION_2026-10-22.md",
+      "size": 19258,
+      "sha256": "8acf62a989b957ec0bf5f7e173a69d338f05fff145b3d084f8e333c120adcd21"
+    },
+    {
+      "path": "docs/briefs/STARCOACH_LIARA_BRIEF_2026-10-21.md",
+      "size": 10022,
+      "sha256": "4342fca9da19c193f84ece0e851974457569ca5cf12c4e21218ddef5eed9073b"
+    },
+    {
+      "path": "docs/briefs/STARCOACH_LIARA_VIDEO_TRANSCRIPT_2026-10-21.txt",
+      "size": 4990,
+      "sha256": "81ff5da7c1dfcc0dd93f753d7fbef9334ed0246607fd6c1a63fa7dc23de49e4d"
+    },
+    {
+      "path": "fixtures/broken-node-app/liara.json",
+      "size": 22,
+      "sha256": "f6c46c4607e7dac59e936b517f1dc366669ce7fad8bd976bdf0d065c13d78052"
+    },
+    {
+      "path": "fixtures/broken-node-app/package.json",
+      "size": 179,
+      "sha256": "d97b137f31bb379d6f5e409fbdc72dfd30bf5881e85541b86a75ec445744e408"
+    },
+    {
+      "path": "fixtures/liara-api/logs.json",
+      "size": 249,
+      "sha256": "b2b4b71d402f21afba02b16422a2b88798a96b82c56942f30ad999f3ccb62070"
+    },
+    {
+      "path": "fixtures/liara-api/project.json",
+      "size": 325,
+      "sha256": "acf22c5a95314d5883c8ecfc038e12dc341c3dce0aca798fdc1e155116528f22"
+    },
+    {
+      "path": "fixtures/liara-api/release-logs.json",
+      "size": 183,
+      "sha256": "1a66e5460eac3d1067238350a0f7a0f4d38cd710a91e0bbf89f9cb9e874b628f"
+    },
+    {
+      "path": "fixtures/liara-api/releases.json",
+      "size": 330,
+      "sha256": "1318d3c39555f35e188be4abb30c53ce365596bdcbc7003589f722a403c6600f"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/README.md",
+      "size": 1150,
+      "sha256": "3c5a147c59c5db108a997d3bdab24d17444eabdbc9bf39ad18cafeb2d6cd6ed2"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/corrected-startup/ARTIFACT_MANIFEST.json",
+      "size": 629,
+      "sha256": "417ff0d020cc2f5871aae9bc1651c36220888ec3052212d9b77595d1710f4215"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/corrected-startup/liara.json",
+      "size": 56,
+      "sha256": "c808f374abbdeaaa0c6ddb08ad75aa68b2c19aeb33cf855d20129d121aae49c3"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/corrected-startup/package.json",
+      "size": 133,
+      "sha256": "7513076ebe6fa4314594f8e01affb0c42806b8e1995b4c446c3e8a4f277b027c"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/corrected-startup/server.mjs",
+      "size": 557,
+      "sha256": "f08e1560b44f3043acb0a18ffbbb4b2aac1c251b47074a200cf1fb88fb3c23c7"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/healthy-baseline/ARTIFACT_MANIFEST.json",
+      "size": 626,
+      "sha256": "bf23ec2fd0ea4966b11d5f30ba84f67805079133cae922ca43c9a66c60f08ed6"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/healthy-baseline/liara.json",
+      "size": 56,
+      "sha256": "c808f374abbdeaaa0c6ddb08ad75aa68b2c19aeb33cf855d20129d121aae49c3"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/healthy-baseline/package.json",
+      "size": 131,
+      "sha256": "140708f12dd34f603906dc69b73b054d9bcbc8ff0471697721dba7a179f9879e"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/healthy-baseline/server.mjs",
+      "size": 555,
+      "sha256": "b89f2ad367e4582042c5a0c9b5d2d76b0f468efae7b918f79161e9ed30d7b04f"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/intentional-startup-failure/ARTIFACT_MANIFEST.json",
+      "size": 638,
+      "sha256": "1e5b60cdb1e9ce295bb92466efc1bcbc19b5696a8d0429eec239aa7da35b6e1f"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/intentional-startup-failure/liara.json",
+      "size": 56,
+      "sha256": "c808f374abbdeaaa0c6ddb08ad75aa68b2c19aeb33cf855d20129d121aae49c3"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/intentional-startup-failure/package.json",
+      "size": 144,
+      "sha256": "3dedb9ed4416da6f4d439454a42b0a88d0ee2bd29f3b1466599b030e46d259a1"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/intentional-startup-failure/server.mjs",
+      "size": 555,
+      "sha256": "bb2bc1d6972285a098bdd5ab8df886fb8713c6ea0839279267f160921af68356"
+    },
+    {
+      "path": "fixtures/liara-first-test-app/variants/variants.zip",
+      "size": 5157,
+      "sha256": "a96b2a95f34e67198ac56c83bfdb27013d75ffd511a1714329fa816d76a2a532"
+    },
+    {
+      "path": "fixtures/port-mismatch-node-app/liara.json",
+      "size": 19,
+      "sha256": "5bec8c27ef09eaaa2a30f1c0166adf0d27dfe2c98f79b63c817018d79820e7fd"
+    },
+    {
+      "path": "fixtures/port-mismatch-node-app/package.json",
+      "size": 167,
+      "sha256": "73bf9b5d46ffb7b7962b1ef73fcc0cacc8870fe9140ddfdd4d0bf324c8888d1a"
+    },
+    {
+      "path": "fixtures/port-mismatch-node-app/server.mjs",
+      "size": 585,
+      "sha256": "fead7deb0b507b363202050c370bc281f0b4d1fcab7846b433307012b8313a23"
+    },
+    {
+      "path": "fixtures/recovery-evidence/logs.json",
+      "size": 435,
+      "sha256": "4afaeea6155f19e27d0b1d944f2012396e31e85a766bed1957f5c2359d0a793f"
+    },
+    {
+      "path": "fixtures/recovery-evidence/missing-config-logs.json",
+      "size": 237,
+      "sha256": "5539c3e197edfc3ff85d7b706dfa8396ef748425fa7837935ceb802047c9e2f8"
+    },
+    {
+      "path": "fixtures/recovery-evidence/missing-config-releases.json",
+      "size": 274,
+      "sha256": "227bce7ae86381b7496f69bd68bee12733436b6b3df5e5baf74b30f69fc03944"
+    },
+    {
+      "path": "fixtures/recovery-evidence/port-config-mismatch-logs.json",
+      "size": 307,
+      "sha256": "e09f7ebe51b49bed45e4b5faba5e77376f8bf59ac06efd1f16f8e05173cc594c"
+    },
+    {
+      "path": "fixtures/recovery-evidence/port-config-mismatch-releases.json",
+      "size": 284,
+      "sha256": "58db5277b5dd27a7a5420883de8322ab8819b6e68a2fcb0bfd719d014e76a39c"
+    },
+    {
+      "path": "fixtures/recovery-evidence/port-conflict-logs.json",
+      "size": 247,
+      "sha256": "ebf7fea5d65029b4f0991f04dd8b497d6de3a9df611ebd143bf1ab1e49963e23"
+    },
+    {
+      "path": "fixtures/recovery-evidence/port-conflict-releases.json",
+      "size": 270,
+      "sha256": "97aac22507c1e553a14f86baf4bf1cbb789a1b71672a843ec2587cdd83c2e654"
+    },
+    {
+      "path": "fixtures/recovery-evidence/releases.json",
+      "size": 269,
+      "sha256": "3e1622e34e20feceb9e123202fd0f78f0376e0b815de7de6a38588cebd265533"
+    },
+    {
+      "path": "fixtures/recovery-node-app/package.json",
+      "size": 127,
+      "sha256": "60d88ee3bcfd8a29c054ba506e93bba4059dbc1d8e3f9c065c767c45d7641000"
+    },
+    {
+      "path": "fixtures/recovery-node-app/server.mjs",
+      "size": 420,
+      "sha256": "025db3cdadf3195891e7810a27044ca37ac916f58306f38563c8d9a576dfcc7b"
+    },
+    {
+      "path": "package-lock.json",
+      "size": 590,
+      "sha256": "193af1b1a6605eed316ebc159bd897ca1eb01f6296806ade7f1a2c68d1280a3f"
+    },
+    {
+      "path": "package.json",
+      "size": 1006,
+      "sha256": "a292b0f6ab7331d035a9bbaa1b63696867ee2e7944d34f9a66df02a94195300f"
+    },
+    {
+      "path": "scripts/boxapi-one-shot.mjs",
+      "size": 7516,
+      "sha256": "f20f07e136cf26ca3bc36e1abb83dc500792bf4f990b222f4a7fd73c504a34a8"
+    },
+    {
+      "path": "scripts/package-allowlist.json",
+      "size": 4647,
+      "sha256": "d2c107fd32ba89fa04c79f9bbabe608e60c586253fe3ac2135f19c47c66fc4d7"
+    },
+    {
+      "path": "scripts/package-submission.mjs",
+      "size": 3889,
+      "sha256": "379d149b62595a753175968a6b9695455f045909c1d71f13e99eb342af4d69ca"
+    },
+    {
+      "path": "scripts/run-boxapi-one-shot.ps1",
+      "size": 2559,
+      "sha256": "92790c1ffbe0cdfba4f4d361f4d40618026f8729ab7a737b9a5d0849523bcc86"
+    },
+    {
+      "path": "scripts/smoke.mjs",
+      "size": 670,
+      "sha256": "56d16f79c8e8890a3507e0302b570eb4055df0e9369639d63410c2c55fe0ba73"
+    },
+    {
+      "path": "scripts/verify-liara-test-app.mjs",
+      "size": 5723,
+      "sha256": "78149466bed49319b36684247da543c9dbbdf2f06ef60365a8d4cf6ed0ae958d"
+    },
+    {
+      "path": "scripts/verify-package-submission.mjs",
+      "size": 5071,
+      "sha256": "e3a043acd625deef34cd4456d42e3e3323409fa1b1f2fbf907979cf0fdc122f4"
+    },
+    {
+      "path": "scripts/verify-source-package.mjs",
+      "size": 7474,
+      "sha256": "a7ee9f8ffe3cdef42fed1f7b65750b5c205d4c4d5d1423773ccf076cef4cffa8"
+    },
+    {
+      "path": "src/bounded-coding-agent.mjs",
+      "size": 11680,
+      "sha256": "baba1d48e688f7b1ae507a134b5753dd3c680afb9389f7e38759add3fc0cd85a"
+    },
+    {
+      "path": "src/coding-agent-worker.mjs",
+      "size": 1030,
+      "sha256": "b0053cfada7395444ca297b9cf3c78c83e8300dc034b006c2d0f4d64d65d67df"
+    },
+    {
+      "path": "src/coding-agent.mjs",
+      "size": 17929,
+      "sha256": "b4eac1b2ddabeb853a91bdaed5725c2274f4ec98985ef9c52333e1176d9a1193"
+    },
+    {
+      "path": "src/demo-server.mjs",
+      "size": 20392,
+      "sha256": "852bb008e0b490783c87864e135c964e215d2cb426668181d47a9ef07309009f"
+    },
+    {
+      "path": "src/diagnosis-providers.mjs",
+      "size": 32861,
+      "sha256": "e0452f47743a01e8fa35941837c824ab8f814f0665b3dcd33e4c0d96300bbadf"
+    },
+    {
+      "path": "src/inspector.mjs",
+      "size": 5649,
+      "sha256": "71fd7bb4736a5a671963f3cdc1a11455b2e0b92ff037e960808cb289bc9eff3a"
+    },
+    {
+      "path": "src/liara-readonly-preflight.mjs",
+      "size": 7602,
+      "sha256": "abb261c73327027dc1ce3f206d242690201a6a4c788674e9bbd118757d5e9d51"
+    },
+    {
+      "path": "src/liara-readonly.mjs",
+      "size": 12731,
+      "sha256": "7de7b61a3a58ab557279edd7e944c360930c76fc619ecf6f233e13792a895e30"
+    },
+    {
+      "path": "src/live-readonly-demo.mjs",
+      "size": 1011,
+      "sha256": "efc75acffd3aebb41c7d28e68fbc7642e17c3b2ba4fa7dd8f46c5f580a27aa59"
+    },
+    {
+      "path": "src/local-health.mjs",
+      "size": 10858,
+      "sha256": "9d19ded6d2a146aa79d6b2f4b77c0d90aeab0667f0555d614cd4dc730c9cc859"
+    },
+    {
+      "path": "src/mock-provider.mjs",
+      "size": 5684,
+      "sha256": "e3cbcf39b5e6ff3a4ca99eb52794ceaf7aec4316dceed141279a721ce1b778fa"
+    },
+    {
+      "path": "src/process-coding-agent.mjs",
+      "size": 6032,
+      "sha256": "984e4469e7c5871e3f3332da1df5213a9334b6ed3e52bf0035423c35d268ce29"
+    },
+    {
+      "path": "src/recovery-ui.mjs",
+      "size": 43726,
+      "sha256": "535ae9cd0a7a03e4561b00f8906f2022798c10aa81997721b998078993316163"
+    },
+    {
+      "path": "src/recovery.mjs",
+      "size": 29774,
+      "sha256": "ef18271a6fdfb4e96f0ca18d5d32a43b2682f49aeb4079f082706f70a61a6d87"
+    },
+    {
+      "path": "src/replay-diagnostics.mjs",
+      "size": 5468,
+      "sha256": "56bda512ec03248e71d2feca17da559ab8c520c3c34b78ea5d26e8dfdb546bec"
+    },
+    {
+      "path": "src/ui-response-order.mjs",
+      "size": 764,
+      "sha256": "2268f446adecb6d8ca94258d8d7cf4ebfcb30116532d9dec28812119c0b19b18"
+    },
+    {
+      "path": "tests/bounded-coding-agent.test.mjs",
+      "size": 12676,
+      "sha256": "3baf1c6c7ce91fe19264781ee621bdf9a227fea99d5deebff76a9748d6a8c1ac"
+    },
+    {
+      "path": "tests/coding-agent.test.mjs",
+      "size": 16793,
+      "sha256": "9f36703a3ba2ae8c2ef1ada5cceadbd46458cfe8af87a7a035e2be47a047fa93"
+    },
+    {
+      "path": "tests/concurrency.test.mjs",
+      "size": 23817,
+      "sha256": "5125676fc9e1f23898045d087c9117d7f6541b649298f5b99f533cc8db84ae56"
+    },
+    {
+      "path": "tests/diagnosis-providers.test.mjs",
+      "size": 25072,
+      "sha256": "26dd5bc9af307bd95dc580a922132ed9b5c4d94d25014767d415a6cb57dd36e6"
+    },
+    {
+      "path": "tests/hardening.test.mjs",
+      "size": 5321,
+      "sha256": "0f05c515bc9ff6a5c93501689a44c1fdcda28016769cce7f7a6f8e6e6b76a801"
+    },
+    {
+      "path": "tests/liara-readonly-preflight.test.mjs",
+      "size": 6567,
+      "sha256": "9cc1e658bfd04267c905f874717fba7c7d8fae1dfb4c5eac5b0b8f803abd8f72"
+    },
+    {
+      "path": "tests/liara-readonly.test.mjs",
+      "size": 14022,
+      "sha256": "1f3002df4281a745ad9bf65db8bf03a3e80cd16fd993e7e7fb27cc64d1e31fcc"
+    },
+    {
+      "path": "tests/llm-acceptance.test.mjs",
+      "size": 3535,
+      "sha256": "f5015eb401a76950c1183f5ecd7b24893dfb96a267f4449685e6aad6fed5702a"
+    },
+    {
+      "path": "tests/llm-safeguards.test.mjs",
+      "size": 4843,
+      "sha256": "f27e36de7d33d1e5c5cfd9763b7d362b52ec9d3d852878e1280aa49768e77f8b"
+    },
+    {
+      "path": "tests/package-submission.test.mjs",
+      "size": 9048,
+      "sha256": "31acedddbff423ed3bd0111de9be2b3f549edd2084bf401b5b9b6672d9a16b22"
+    },
+    {
+      "path": "tests/process-coding-agent.test.mjs",
+      "size": 12928,
+      "sha256": "b7e0344063d319104f717a7d5fe1993adaf82b955317948645f12cbd64d301d5"
+    },
+    {
+      "path": "tests/recovery-ui.test.mjs",
+      "size": 13528,
+      "sha256": "59c11675a9ab05dab3b7b6acd67e74ad491a761c338dd76652acee717cd092ac"
+    },
+    {
+      "path": "tests/recovery.test.mjs",
+      "size": 31733,
+      "sha256": "ce12452f7fcf34889dcc695d2b011d35deb73ff1c3038352fbe9b60d4c216059"
+    },
+    {
+      "path": "tests/regressions.test.mjs",
+      "size": 10518,
+      "sha256": "5485ddb421c2fc9b64de74b4901bbf9e8cc039c843f523a46ee2f270a796d528"
+    },
+    {
+      "path": "tests/replay-diagnostics.test.mjs",
+      "size": 3760,
+      "sha256": "28c51b275eb14e347a2628c0458cc039a6abe04838200aa3e84d9c7728aaac07"
+    },
+    {
+      "path": "tests/smoke.test.mjs",
+      "size": 1017,
+      "sha256": "3a789dde31da0d309a626bf3b38ddfe133ab94471e86636c279d2e335d7f9608"
+    },
+    {
+      "path": "vendor/starcoach-core-llm-0.5.0.tgz",
+      "size": 16360,
+      "sha256": "4b0f20925221017c10daa0c6fd48abcef87902deeaa42d24d0f0fc3a9702bb47"
+    }
+  ]
+}
